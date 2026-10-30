@@ -1,0 +1,132 @@
+{
+  "audio_file": "Radhimaa.mp3",
+  "language": "ta",
+  "words": [
+    {
+      "index": 1,
+      "start": 4.8,
+      "end": 5.92,
+      "text": "Inniki-ethuvum"
+    },
+    {
+      "index": 2,
+      "start": 5.92,
+      "end": 7.2,
+      "text": "solama-engiayoo"
+    },
+    {
+      "index": 3,
+      "start": 7.2,
+      "end": 8.32,
+      "text": "maranjita"
+    },
+    {
+      "index": 4,
+      "start": 8.32,
+      "end": 9.04,
+      "text": "Engana-avanu"
+    },
+    {
+      "index": 5,
+      "start": 9.04,
+      "end": 10.64,
+      "text": "eluthuna-kirukalanu"
+    },
+    {
+      "index": 6,
+      "start": 10.64,
+      "end": 11.76,
+      "text": "varanjita"
+    },
+    {
+      "index": 7,
+      "start": 11.76,
+      "end": 13.46,
+      "text": "ravusaa..pona-enna"
+    },
+    {
+      "index": 8,
+      "start": 13.46,
+      "end": 14.98,
+      "text": "looosa-dhaan"
+    },
+    {
+      "index": 9,
+      "start": 14.98,
+      "end": 16.27,
+      "text": "suththa-vitta"
+    },
+    {
+      "index": 10,
+      "start": 16.27,
+      "end": 16.9,
+      "text": "adiyeaa"
+    },
+    {
+      "index": 11,
+      "start": 16.9,
+      "end": 18.74,
+      "text": "veththu-vetta"
+    },
+    {
+      "index": 12,
+      "start": 18.82,
+      "end": 20.43,
+      "text": "Avala..varuva"
+    },
+    {
+      "index": 13,
+      "start": 20.43,
+      "end": 21.3,
+      "text": "paranthu-pona"
+    },
+    {
+      "index": 14,
+      "start": 21.3,
+      "end": 22.3,
+      "text": "kizhiyaaga.."
+    },
+    {
+      "index": 15,
+      "start": 22.3,
+      "end": 23.82,
+      "text": "iru-da..varuva"
+    },
+    {
+      "index": 16,
+      "start": 23.82,
+      "end": 24.86,
+      "text": "tholanju-pona"
+    },
+    {
+      "index": 17,
+      "start": 24.86,
+      "end": 25.82,
+      "text": "oli-aaga"
+    },
+    {
+      "index": 18,
+      "start": 25.82,
+      "end": 27.42,
+      "text": "azhaga-varuva,"
+    },
+    {
+      "index": 19,
+      "start": 27.42,
+      "end": 29.18,
+      "text": "kadanthu..pona-thimiraaga"
+    },
+    {
+      "index": 20,
+      "start": 29.18,
+      "end": 31.9,
+      "text": "mutaala-aiaiiyooo"
+    }
+  ],
+  "template": "justlyrics",
+  "textColor": "#21110C",
+  "backgroundImage": "Radhima.png",
+  "background_image": "Radhima.png",
+  "fontFamily": "Outfit",
+  "fontSize": 64
+}

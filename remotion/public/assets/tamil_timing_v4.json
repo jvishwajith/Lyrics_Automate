@@ -1,0 +1,61 @@
+{
+  "audio_file": "Thodu_Vaanam.mp3",
+  "model": "whisper-large-v3-turbo",
+  "language": "ta",
+  "words": [
+    {
+      "index": 1,
+      "start": 0.26,
+      "end": 1.6,
+      "text": "Siru pozhudhu"
+    },
+    {
+      "index": 2,
+      "start": 1.6,
+      "end": 3.56,
+      "text": "pirindhadharkkae"
+    },
+    {
+      "index": 3,
+      "start": 3.56,
+      "end": 5.18,
+      "text": "Pala pozhudhu"
+    },
+    {
+      "index": 4,
+      "start": 5.18,
+      "end": 5.9,
+      "text": "kathari"
+    },
+    {
+      "index": 5,
+      "start": 5.9,
+      "end": 7.12,
+      "text": "vittaai"
+    },
+    {
+      "index": 6,
+      "start": 6.78,
+      "end": 8.74,
+      "text": "Janmangalaai"
+    },
+    {
+      "index": 7,
+      "start": 8.74,
+      "end": 10.46,
+      "text": "Pen thuyaram"
+    },
+    {
+      "index": 8,
+      "start": 10.46,
+      "end": 12.14,
+      "text": "ari vaayo"
+    },
+    {
+      "index": 9,
+      "start": 12.14,
+      "end": 13.0,
+      "text": "Nee... "
+    }
+  ]
+}

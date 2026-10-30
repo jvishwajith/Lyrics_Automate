@@ -1,0 +1,16 @@
+lyric_automate/
+.env
+
+remotion/public/assets/*.mp3
+remotion/public/backgrounds/
+
+output/
+final_video/
+
+# added cleanup
+node_modules/
+__pycache__/
+*.pyc
+Partitioned/
+remotion/out/
+.DS_Store
